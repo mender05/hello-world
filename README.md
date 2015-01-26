@@ -1,4 +1,7 @@
-# hello-world
-My first repository on GitHub
+hello-world
+================
+Hello, World!
+
+My first repository on GitHub!
 
 I love mender :dog:!
